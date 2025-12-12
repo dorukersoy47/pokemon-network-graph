@@ -1,0 +1,1 @@
+This is going to be a Next.js app in the future.
