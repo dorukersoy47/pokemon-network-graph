@@ -1,5 +1,7 @@
 # Pokémon Network Graph (PNG)
 
+ 🚧 Project Under Construction 🚧
+
 ## Description
 This project explores Pokémon type advantages and disadvantages through the lens of **network theory**.  
 By treating types as nodes and effectiveness relationships as connections, the project creates a way to visualize and understand the balance of the Pokémon type system across different generations.  
