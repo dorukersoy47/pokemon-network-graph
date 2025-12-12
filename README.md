@@ -1,4 +1,4 @@
-# Pokémon Type Graph
+# Pokémon Network Graph (PNG)
 
 ## Description
 This project explores Pokémon type advantages and disadvantages through the lens of **network theory**.  
